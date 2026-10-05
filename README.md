@@ -24,6 +24,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **ActiveCampaign** | Email marketing automation and CRM platform. | *[Deal TBA]* | [Visit Site](https://www.activecampaign.com) |
 | **Pipedrive** | Sales-focused CRM and pipeline tracking tool. | *[Deal TBA]* | [Visit Site](https://www.pipedrive.com) |
 | **Seamless.AI** | Real-time B2B contact and company lead search engine. | *[Deal TBA]* | [Visit Site](https://seamless.ai) |
+| **Saleshandy** | Find B2B leads in real time and set up outreach automation. | *[Deal TBA]* | [Visit Site](https://www.saleshandy.com) |
 | **Tweetfull** | X / Twitter growth and audience automation utility. | *[Deal TBA]* | [Visit Site](https://tweetfull.com) |
 | **Chatwoot** | Customer engagement and omni-channel support platform. | Free / Self-hosted | [Visit Site](https://www.chatwoot.com) |
 | **Listmonk** | High-performance newsletter and mailing list manager. | Free / Self-hosted | [Visit Site](https://listmonk.app) |
