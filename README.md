@@ -39,6 +39,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Book Your Data** | Accurate B2B email lists and contact database. | [*[Deal TBA]*](https://join.bookyourdata.com/discount) |
 | **Uniqode** | Enterprise QR code generator and management platform. | [*[Deal TBA]*](https://try.uniqode.com/coupon) |
 | **Vista Social** | Advanced social media management and scheduling tool. | [*[Deal TBA]*](https://join.vistasocial.com/discount) |
+| **SyncSignature** | Email signature management for Google Workspace and Microsoft 365, with banner campaigns and click tracking. | [50% off Teams: 2 years for the price of 1 ($180 for 24 months), no code, Nov 10 - Dec 4](https://syncsignature.com/?utm_source=carmentune&utm_medium=bf-listicle&utm_campaign=bfcm26) |
 
 ## 🛒 E-commerce & Dropshipping
 
