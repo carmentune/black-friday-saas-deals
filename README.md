@@ -64,6 +64,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Gravity Forms** | Advanced drag-and-drop form builder for WordPress. | [*[Deal TBA]*](https://try.gravity.com/coupon) |
 | **InMotion Hosting** | Fast, reliable shared and dedicated web hosting. | [*[Deal TBA]*](https://connect.inmotionhosting.com/deal) |
 | **Plesk** | WebOps platform and server management control panel. | [*[Deal TBA]*](https://try.plesk.com/coupon) |
+| **Kinsta** | Fast, secure, feature-rich managed hosting for WordPress, secured by Cloudflare. | [3 months free on annual plans / 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/) |
 
 ## 🔍 SEO, Analytics & Advertising
 
