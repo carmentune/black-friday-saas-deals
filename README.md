@@ -107,6 +107,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **airSlate** | End-to-end document workflow and business automation. | [*[Deal TBA]*](https://partnerstack.signnow.com/coupons) |
 | **Emergent Labs** | Custom AI automation and enterprise LLM solutions. | [*[Deal TBA]*](https://get.emergent.sh/promo-code) |
 | **Piloterr** | Web scraping API that handles headless browsers and rotates proxies for you. | [50% off for 3 months (code BLACKFRIDAY50)](https://www.piloterr.com/blackfriday) |
+| **MindPal** | Turn your expertise into AI agents and multi-agent workflows for your team, clients and audience. | [60% off the first year of annual plans, code BLACKFRIDAY2026, until Dec 11](https://mindpal.io/pricing) |
 
 ## 📞 Communication & VoIP
 
