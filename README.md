@@ -40,6 +40,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Uniqode** | Enterprise QR code generator and management platform. | [*[Deal TBA]*](https://try.uniqode.com/coupon) |
 | **Vista Social** | Advanced social media management and scheduling tool. | [*[Deal TBA]*](https://join.vistasocial.com/discount) |
 | **SyncSignature** | Email signature management for Google Workspace and Microsoft 365, with banner campaigns and click tracking. | [50% off Teams: 2 years for the price of 1 ($180 for 24 months), no code, Nov 10 - Dec 4](https://syncsignature.com/?utm_source=carmentune&utm_medium=bf-listicle&utm_campaign=bfcm26) |
+| **Nuelink** | Agentic social media scheduling and automation for 12 platforms. | [50% off yearly plans (6 months free), or 25% off your first 3 monthly payments with code BFCM26, Nov 6 - Nov 30](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=carmentune_black_friday_saas_deals) |
 
 ## 🛒 E-commerce & Dropshipping
 
