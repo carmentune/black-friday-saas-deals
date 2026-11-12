@@ -109,6 +109,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **TypingMind** | Chat UI for ChatGPT, Claude, Gemini and more in one place, with MCP, AI agents and private local storage. | [60% off Lifetime Premium ($198 → $79), code BLACKFRIDAY2026, Nov 2 - Dec 15](https://www.typingmind.com/pricing) |
 | **Piloterr** | Web scraping API that handles headless browsers and rotates proxies for you. | [50% off for 3 months (code BLACKFRIDAY50)](https://www.piloterr.com/blackfriday) |
 | **MindPal** | Turn your expertise into AI agents and multi-agent workflows for your team, clients and audience. | [60% off the first year of annual plans, code BLACKFRIDAY2026, until Dec 11](https://mindpal.io/pricing) |
+| **Wovo** | One MCP that turns any AI into a multi-device agent across all your computers. | [50% off Pro and Max yearly (Pro $144 → $72/yr, Max $348 → $174/yr), auto-applied, no code, through Dec 15](https://wovo.one/?ref=carmentune2026#pricing) |
 
 ## 📞 Communication & VoIP
 
