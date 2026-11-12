@@ -92,6 +92,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Presentify** | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom (Mac). | [30% off with code PRESENTIFY30, Nov 18 - Dec 2 (direct purchase from the website)](https://presentifyapp.com) |
 | **FaceScreen** | Floating camera overlay with a text overlay and ring light for recordings and calls (Mac, iPhone, iPad). | [30% off with code FACESCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://facescreen.app) |
 | **KeyScreen** | Shows the keys you press on screen for tutorials, streams, and demos (Mac). | [30% off with code KEYSCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://keyscreen.app) |
+| **Sip** | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | [50% off with code `BLACKFRIDAY26`, Nov 27–29](https://sipapp.io/blackfriday/) and code `CYBERMONDAY26`, [Nov 30–Dec 2](https://sipapp.io/cybermonday/) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
