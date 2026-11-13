@@ -111,6 +111,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Piloterr** | Web scraping API that handles headless browsers and rotates proxies for you. | [50% off for 3 months (code BLACKFRIDAY50)](https://www.piloterr.com/blackfriday) |
 | **MindPal** | Turn your expertise into AI agents and multi-agent workflows for your team, clients and audience. | [60% off the first year of annual plans, code BLACKFRIDAY2026, until Dec 11](https://mindpal.io/pricing) |
 | **Wovo** | One MCP that turns any AI into a multi-device agent across all your computers. | [50% off Pro and Max yearly (Pro $144 → $72/yr, Max $348 → $174/yr), auto-applied, no code, through Dec 15](https://wovo.one/?ref=carmentune2026#pricing) |
+| **SimpleFill** | Text expansion, AI actions, and one-click form filling in your browser (Chrome, Firefox, Edge, and Safari). | [25% off one-time plans (Standard $29 → $21.75, Pro $59 → $44.25), code LAUNCH, Nov 10 - Dec 7](https://simplefill.app) |
 
 ## 📞 Communication & VoIP
 
