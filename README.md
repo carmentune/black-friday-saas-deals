@@ -93,6 +93,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **FaceScreen** | Floating camera overlay with a text overlay and ring light for recordings and calls (Mac, iPhone, iPad). | [30% off with code FACESCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://facescreen.app) |
 | **KeyScreen** | Shows the keys you press on screen for tutorials, streams, and demos (Mac). | [30% off with code KEYSCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://keyscreen.app) |
 | **Sip** | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | [50% off with code `BLACKFRIDAY26`, Nov 27–29](https://sipapp.io/blackfriday/) and code `CYBERMONDAY26`, [Nov 30–Dec 2](https://sipapp.io/cybermonday/) |
+| **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
