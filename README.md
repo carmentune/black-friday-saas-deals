@@ -149,6 +149,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Signable** | Simple and secure electronic signature solution. | [*[Deal TBA]*](https://try.signable.co.uk/try-for-free) |
 | **Proton** | Privacy-first encrypted email and VPN services. | [*[Deal TBA]*](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) |
 | **Miro** | Collaborative digital workspace and online whiteboard. | [*[Deal TBA]*](https://ps.miro-affiliate.com/deals) |
+| **DailyRemote** | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | [39% off Premium monthly, quarterly and yearly plans with code BFBNRTZSY, Nov 12 - Dec 1](https://dailyremote.com/get-started) |
 
 ## 🎓 Learning & Online Courses
 
